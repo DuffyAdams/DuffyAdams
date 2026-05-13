@@ -14,113 +14,42 @@ Full-stack developer focused on real-time systems, automation, browser extension
 
 ## Featured Projects
 
-<details>
-<summary><b>🚦 San Diego Traffic Watch</b></summary>
-
-Real-time traffic and emergency incident dashboard for San Diego.
-
-### Highlights
-- Aggregates live CHP incident data
-- AI-generated incident summaries
-- Interactive maps and analytics
-- Likes/comments system
-- Geocoding and map image generation
-- Infinite scrolling Svelte frontend
-
-### Stack
-`Python` `Flask` `Svelte` `SQLite` `Playwright`
-
-### Links
-- Repo: https://github.com/DuffyAdams/traffic-app
-- Website: https://duffyadams.com
-
-</details>
-
----
-
-<details>
-<summary><b>📚 Canvas File Grabber</b></summary>
-
-Chrome extension for bulk downloading course files directly from Canvas LMS.
-
-### Highlights
-- Detects downloadable resources automatically
-- Bulk download support
-- Lightweight browser extension UI
-
-### Stack
-`JavaScript` `Chrome Extensions API`
-
-### Links
-- Repo: https://github.com/DuffyAdams/Canvas-File-Grabber
-
-</details>
-
----
-
-<details>
-<summary><b>⭐ SDSU RMP Integration</b></summary>
-
-Injects RateMyProfessors ratings directly into SDSU class search pages.
-
-### Highlights
-- Displays ratings inline during registration
-- Improves professor comparison workflow
-- DOM injection and scraping logic
-
-### Stack
-`JavaScript` `Browser Extensions`
-
-### Links
-- Repo: https://github.com/DuffyAdams/RMPIntegration-SDSU
-
-</details>
-
----
-
-<details>
-<summary><b>🚔 License Plate Reporter</b></summary>
-
-Community-driven traffic safety reporting platform.
-
-### Highlights
-- Public incident reporting
-- Media upload support
-- Filtering and live feed UI
-- Infinite scrolling
-
-### Stack
-`TypeScript` `Frontend Development`
-
-### Links
-- Repo: https://github.com/DuffyAdams/license-plate-reporter
-
-</details>
+| Project | Description | Stack |
+|---|---|---|
+| 🚦 **Traffic Watch** | Real-time CHP traffic dashboard with AI summaries, geocoding, maps, analytics, likes/comments, and live incident updates. | `Python` `Flask` `Svelte` `SQLite` |
+| 📚 **Canvas File Grabber** | Chrome extension for bulk downloading files directly from Canvas LMS course pages. | `JavaScript` `Chrome Extensions` |
+| ⭐ **RMP Integration** | Injects RateMyProfessors ratings directly into SDSU registration pages. | `JavaScript` `DOM Manipulation` |
+| 🚔 **License Plate Reporter** | Community-driven traffic safety reporting platform with live feeds and filtering. | `TypeScript` `Frontend` |
+| 🎬 **FlickFast** | Movie ticketing and booking platform built as a full-stack application. | `Full Stack` |
+| 🤖 **FAST System** | AI-powered drive-thru automation system for quick-service restaurants. | `Python` `Automation` |
 
 ---
 
 ## Tech Stack
 
-| Backend | Frontend | Tools |
-|---|---|---|
-| Python | Svelte | Git |
-| Flask | TypeScript | Playwright |
-| SQLite | HTML/CSS | Linux |
-| APIs | JavaScript | Chrome Extensions |
+| Backend | Frontend | Databases | Tools |
+|---|---|---|---|
+| Python | Svelte | SQLite | Git |
+| Flask | TypeScript | APIs | Playwright |
+| REST APIs | JavaScript | Data Processing | Linux |
+| Automation | HTML/CSS | Geocoding | Chrome Extensions |
 
 ---
 
-## Currently Working On
+## Current Focus
 
-- Improving San Diego Traffic Watch analytics and scalability
-- Building automation and AI-powered utility tools
-- Expanding full-stack and systems programming skills
+| Area | Details |
+|---|---|
+| 🚦 Traffic Systems | Expanding analytics and scalability for Traffic Watch |
+| 🤖 AI & Automation | Building practical automation and utility tools |
+| 💻 Full-Stack Development | Improving backend architecture and frontend UX |
+| ⚙️ Systems Programming | Continuing to grow low-level and infrastructure knowledge |
 
 ---
 
 ## Links
 
-| Website | GitHub | Email |
+| Portfolio | GitHub | Email |
 |---|---|---|
 | https://duffyadams.com | https://github.com/DuffyAdams | duffyadams55@gmail.com |
 
