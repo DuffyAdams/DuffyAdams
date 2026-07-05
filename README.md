@@ -10,7 +10,7 @@ I'm using an app, sitting in traffic, registering for classes, working out, or d
 
 So I build something to fix it.
 
-I like making software that is actually useful in real life. Not just projects that look good on a resume, but tools that solve problems I personally run into — and hopefully help other people who have the same frustrations.
+I like making software that is actually useful in real life. Not just projects that look good on a resume, but tools that solve problems I personally run into and hopefully help other people who have the same frustrations.
 
 ---
 
